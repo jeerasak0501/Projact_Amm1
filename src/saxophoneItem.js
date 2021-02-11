@@ -1,11 +1,10 @@
-function Saxophone() {
+function SaxophoneItem() {
     return (
-        <div className="Saxophone-item">
-            <img src="/images/01.jpg" width="200" height="200" />
-            <h4>Saxophone 1</h4>
+        <div className="Saxophone-Item">
+            <img src="images/01.jpg" width="200" height="200" />
+            <h3>Saxophone 1</h3>
         </div>
     );
-    
-}
 
-export default Saxophone;
+}
+export default SaxophoneItem;
