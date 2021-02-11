@@ -1,0 +1,28 @@
+.app-header {
+  border-bottom: 1px solid gray;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+} 
+
+.app-header-logo {
+  height: 55px;
+}
+.app-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 16px;  
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto; 
+
+}
+.Saxophone-item img {
+  display: block;
+  width: 100;
+}
+
+
