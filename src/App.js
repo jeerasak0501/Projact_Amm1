@@ -1,6 +1,6 @@
 import './App.css';
-import AppHeader from './AppHeader';
-import SaxophoneItem from './saxophoneItem';
+import AppHeader from './App-Header';
+import SaxophoneItem from './saxophone-Item';
 
 function App() {
 
@@ -12,8 +12,6 @@ function App() {
                 <SaxophoneItem />
                 <SaxophoneItem />
                 <SaxophoneItem />
-             
-                 
             </div>
         </div>
     );
