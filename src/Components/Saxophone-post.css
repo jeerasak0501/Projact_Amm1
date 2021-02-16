@@ -1,4 +1,4 @@
-.SaxophonePost {
+.Saxophone-Post {
     position: fixed;
     top: 0;
     bottom: 0;
@@ -10,7 +10,7 @@
     align-items: center;
 }
 
-.SaxophonePost-bg { 
+.Saxophone-Post-bg { 
     background-color: rgba(0, 0, 0, 0.803);
     position: absolute;
     top: 0;
@@ -18,3 +18,4 @@
     left: 0;
     right: 0;
 }
+ 
